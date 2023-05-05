@@ -1,0 +1,1 @@
+C:\Users\Oluwanifemi\ Oyewole\Desktop\PAU\YEAR\ 3\Semester\ 2\CSC\ 305\dev\barest_os\the_bare_os\target\x86_64-unknown-none\debug\the_bare_os: C:\Users\Oluwanifemi\ Oyewole\Desktop\PAU\YEAR\ 3\Semester\ 2\CSC\ 305\dev\barest_os\the_bare_os\src\main.rs
