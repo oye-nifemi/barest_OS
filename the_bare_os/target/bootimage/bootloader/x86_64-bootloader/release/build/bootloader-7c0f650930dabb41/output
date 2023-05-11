@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=C:\Users\Oluwanifemi Oyewole\Desktop\PAU\YEAR 3\Semester 2\CSC 305\dev\barest_os\the_bare_os\Cargo.toml
+cargo:rustc-link-search=native=C:\Users\Oluwanifemi Oyewole\Desktop\PAU\YEAR 3\Semester 2\CSC 305\dev\barest_os\the_bare_os\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-7c0f650930dabb41\out
+cargo:rustc-link-lib=static=kernel_bin-the_bare_os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\C:\Users\Oluwanifemi Oyewole\Desktop\PAU\YEAR 3\Semester 2\CSC 305\dev\barest_os\the_bare_os\target\x86_64-bootimage-barest\debug\the_bare_os
+cargo:rerun-if-changed=build.rs
